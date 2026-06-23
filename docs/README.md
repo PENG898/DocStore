@@ -1,4 +1,4 @@
-# Course Materials Management System
+# DocStore
 
 ## Usage
 
