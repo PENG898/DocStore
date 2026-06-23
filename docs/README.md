@@ -7,7 +7,7 @@ python main.py
 ```
 
 This will:
-1. Scan 9 desktop course folders
+1. Scan desktop course folders
 2. Index all files into SQLite database
 3. Generate an interactive HTML dashboard
 4. Open the dashboard in your browser
